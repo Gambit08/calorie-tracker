@@ -10,6 +10,8 @@ show aggregated calories intake. An item can be simply added by supplying the re
 Each item can enter into an edit state by clicking on the pencil icon beside each list item. Once an item enters an edit state, it can be 
 updated or deleted. A back button is provided to exit from the edit state. The clear-all button will delete all entries up to date.
 
+![Video of user interface](/public/assets/img/front-end-giphy.gif)
+
 ### Local setup for development purposes ###
 The following must be installed to run the app locally.
 
